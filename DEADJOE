@@ -1,0 +1,36 @@
+
+*** These modified files were found in JOE when it aborted on Fri Mar 17 16:15:09 2017
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/rogerforner/Code/todosBackend/.git/rebase-merge/git-rebase-todo
+
+*** File '/home/rogerforner/Code/todosBackend/.git/rebase-merge/git-rebase-todo'
+pick 6b26769 Implement created tasks fro API OK
+pick b8a70cd Updated task Ok
+pick 465f68f Sync TODO WORK
+
+# Rebase a419c00..465f68f onto a419c00 (3 command(s))
+#
+# Commands:
+# p, pick = use commit
+# r, reword = use commit, but edit the commit message
+# e, edit = use commit, but stop for amending
+# s, squash = use commit, but meld into previous commit
+# f, fixup = like "squash", but discard this commit's log message
+# x, exec = run command (the rest of the line) using shell
+# d, drop = remove commit
+#
+# These lines can be re-ordered; they are executed from top to bottom.
+#
+# If you remove a line here THAT COMMIT WILL BE LOST.
+#
+# However, if you remove everything, the rebase will be aborted.
+#
+# Note that empty commits are commented out
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
